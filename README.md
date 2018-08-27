@@ -1,2 +1,2 @@
-# SupernovaSlideshow1
+# SupernovaSlideshow
 School Slideshow updated
